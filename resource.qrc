@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>rec/Calculator_5122x.png</file>
+        <file>rec/cross-24-512 (1).png</file>
+    </qresource>
+</RCC>
